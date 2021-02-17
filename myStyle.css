@@ -6,3 +6,6 @@ body {
     color: rgb(211, 48, 124);
     margin-left: 20px;
   }
+  html{
+    font-size: 18px;
+  }
